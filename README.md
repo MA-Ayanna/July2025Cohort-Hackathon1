@@ -1,83 +1,56 @@
-# July 2025 Cohort Hackathon 1: Portfolio Challenge 🚀  
+# Mary Wanza – Portfolio Website
 
-Welcome to the **PLP Academy Portfolio Challenge!** 🎉  
+Welcome to my personal portfolio! I'm Mary Wanza, an aspiring software developer with a background in business administration. I’m currently exploring web development and growing my technical skills through hands-on projects like this one.
 
-This README.md file provides all the details you need to successfully complete and submit your project. Let’s get started! 💻  
+---
 
----  
+## 🌐 About the Project
 
-## 🌟 Project Overview  
-Your challenge is to build a **personal portfolio website** that showcases your skills, background, and achievements. Your portfolio should include:  
+This is a simple yet elegant personal portfolio website built with **HTML** and **CSS**. It's designed to introduce who I am, showcase my growing skill set, and provide access to my resume.
 
-1. **Programming Languages**: List the programming languages you’re proficient in.  
-2. **About Section**: Share a brief introduction about yourself, your passion, and what drives you.  
-3. **Educational Background**: Provide details of your education and include a downloadable CV.  
-4. **Interests**: Share what excites you about tech and your professional interests.  
-5. **Projects**: Include links to your projects with brief descriptions.  
-6. **Contact Form**: Make it easy for collaborators or employers to reach you.  
+### 🔧 Built With
+- HTML5
+- CSS3
 
----  
+---
 
-## 🛠️ Guidelines  
+## 👩‍💻 What You’ll Find
 
-- **Skills**: Build your portfolio using HTML and CSS.  
-- **Individual Work**: This is a solo challenge—showcase your skills and creativity.
-- **Deskie Team Up**: This is you and your Deskie working together, merging your skills and creativity to come up with something great.
-- **Reference Material**: For additional details and helpful information, refer to [this document](https://docs.google.com/document/d/1v-F-tXa1dwV2w5oMkM2QzAuoFoQYZlOEuT5qeRKDTPA/edit?usp=sharing).  
-- **Submission**: Push your project to a **public GitHub repository** and complete the submission form.  
+- ✅ Clean and responsive homepage
+- ✅ A section about me and my goals
+- ✅ My current CV in PDF format
+- ✅ Basic personal branding and design
 
----  
+---
 
-## 📅 Key Dates  
+## 📄 View My Resume
 
-**Start Date**: July 30th, 2025, 12:00 PM EAT
-**End Date**: Aug 3rd, 2025, 12:00 PM EAT
-**Award Ceremony**: Aug 8th, 2025, 5:00 PM EAT  
+👉 [Download My CV (PDF)](./Mary-Wanza-CV.pdf)
 
----  
+---
 
-## 💼 Example Portfolio Sections  
+## 💡 Future Goals
 
-### 📝 About Me  
-Hi! I’m [Your Name], a passionate web developer with a love for creating functional and beautiful web experiences.  
+I’m still learning and improving every day. I hope to:
+- Add more projects and interactive features
+- Learn JavaScript and backend development
+- Build a complete portfolio with contact forms and animations
 
-### 🎓 Educational Background  
-I hold a degree in [Your Degree] from [Your University].  
-**[Download My CV](link-to-your-cv)**  
+---
 
-### 💡 Interests  
-- **Web Development**: Exploring modern frameworks and best practices.  
-- **Tech Innovations**: Keeping up with emerging trends in technology.  
+## 🚀 Why This Matters
 
-### 🛠️ Projects  
-1. **[Project 1](link-to-project1)**: A brief description of your project.  
-2. **[Project 2](link-to-project2)**: Another brief description.  
+This project is part of a Hackathon challenge, but more than that—it’s a step forward in building a future where I can provide for myself and my daughter Ayanna, and create things I’m proud of.
 
-### 📬 Contact Me  
-Feel free to reach out! [Contact Form](link-to-your-contact-form)  
+---
 
----  
+## 📫 Contact Me
 
-## 📁 Submission Instructions  
+If you'd like to connect, collaborate, or give feedback, here’s how to reach me:
 
-1. **Create Your Portfolio**: Build a complete portfolio website with all the required sections.  
-2. **Push to GitHub**: Upload your project to a **public GitHub repository**.  
-3. **Update README**: Ensure your README.md includes details about your portfolio.  
-4. **Submit Your Project**: Use [this form](https://forms.gle/DVvnaM5AzkXPpxYSA) to share your GitHub repo.  
+- **Email**: mary.wanza.kyalo@gmail.com  
+- **GitHub**: [MA-Ayanna](https://github.com/MA-Ayanna)
 
----  
+---
 
-## 🏆 Evaluation Criteria  
-
-- **Creativity and Ingenuity (20%)**: Original ideas and standout features.  
-- **Code Quality (20%)**: Clean, readable, and efficient code.  
-- **Documentation (15%)**: Informative README and clear code comments.  
-- **Deployment (15%)**: Successfully hosted on a platform like GitHub Pages, Netlify or Vercel.  
-- **Development Process (15%)**: Effective collaboration and project management.  
-- **Technology Stack (15%)**: Usage of responsive, visually appealing tools.
-
-
----  
-
-We’re excited to see your unique creations! ✨  
-Happy coding, and good luck! 🍀  
+> _“I’m just getting started, but I’m aiming high.” – Mary Wanza_
